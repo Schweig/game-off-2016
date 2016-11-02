@@ -1,4 +1,4 @@
-make a folder wherever you 
+make a folder wherever you want
 
 move to the directory using cd/ls
 
@@ -9,7 +9,7 @@ cd game-off-2016
 
 either 
 
-checkout working
+checkout "existing branch name"
 
 or 
 
@@ -21,7 +21,7 @@ checkout "your branch name"
 
 
 
-to add
+to add files you changed or created
 
 git add .
 
