@@ -1,5 +1,5 @@
 local modinfo = {
-	name = "Empty Mod plus Tank",
+	name = "Hack Mod",
 	shortname = "Tank",
 	game = "Empty Example Mod plus Tank Unit",
 	shortgame = "Tank",

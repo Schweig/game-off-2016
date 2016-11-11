@@ -1,8 +1,8 @@
-local base = piece "base"
+local base = piece "head"
 local body = piece "body"
-local turret = piece "turret"
-local gun = piece "gun"
-local flare = piece "flare"
+local turret = piece "cord"
+local gun = piece "plug box"
+local flare = piece "shot"
 -- declares all the pieces we'll use in the script.
 
 local SIG_AIM = 2
