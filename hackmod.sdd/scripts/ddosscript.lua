@@ -1,7 +1,7 @@
 local base = piece "neck"
 local body = piece "body"
 local turret = piece "neck"
-local gun = piece "head"
+local gun = piece "Head"
 local flare = piece "shot"
 -- declares all the pieces we'll use in the script.
 
