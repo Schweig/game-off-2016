@@ -1,7 +1,7 @@
 local sidedata = {
 	{
 	name = "ddos",
-	startUnit = "ddos",
+	startUnit = "base",
 	},
 	{
 	name = "memes",
