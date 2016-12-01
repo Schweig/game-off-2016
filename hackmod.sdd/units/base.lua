@@ -3,7 +3,7 @@ local unitName = "base"
 local unitDef =
 {
 -- Internal settings
-	BuildPic = "base.bmp",
+	BuildPic = "base.png",
 	Category = "BUILDING NOTSCOUT NOTHEAVY NOTAIR NOTEPIC NOTSHIP NOTSTEALTHY ALL",
 	ObjectName = "baseMotherboard.s3o",
 	Side = "ddos",
@@ -30,8 +30,8 @@ local unitDef =
 	EnergyUse = 0,
 	MetalStorage = 0,
 	EnergyMake = 1, 
-	MakesMetal = 0, 
-	MetalMake = 0,
+	MakesMetal = 1, 
+	MetalMake = 1,
 	
 -- Pathfinding and related
 	FootprintX = 4,
@@ -49,6 +49,7 @@ local unitDef =
 	{
 		"ddos",
 		"builder",
+		"ic",
 	},
 	
 -- Abilities new to Spring

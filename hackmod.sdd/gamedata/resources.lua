@@ -12,6 +12,7 @@ local resources =
 		projectiletextures =  
 		{
 			flame  =  'flame.tga',
+			binary = 'binary.tga',
 			explodeheat  =  'explodeheat.tga',
 		}
 	}

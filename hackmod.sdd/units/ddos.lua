@@ -2,7 +2,7 @@ local unitName  =  "ddos"
 
 local unitDef  =  {
 --Internal settings
-    BuildPic = "filename.bmp",
+    BuildPic = "ddos.png",
     Category = "TANK SMALL NOTAIR NOTSUB",
     ObjectName = "DDOSgrlSpring.s3o",
     name = "DDOS",
@@ -91,7 +91,8 @@ local weaponDefs = {
 		reloadtime = 1.5,
 		rgbcolor = "1.0 1.0 1.0",
 		turret = true,
-		texture1 = "flame",
+		texture1 = "binary
+		",
 		weaponvelocity = 400,
 		explosiongenerator = "custom:TANKGUN_FX",
 		damage =
